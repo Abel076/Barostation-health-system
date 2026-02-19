@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Названия + Описание -->
+  <!-- Харибда сырое -->
+  <entityname.luhe-charybdismeatchunk>Кусок мяса Харибды</entityname.luhe-charybdismeatchunk>
+  <entitydescription.luhe-charybdismeatchunk>Большой кусок мяса из Харибды - отличная добыча! \nПортится, если не находится в холодильнике.</entitydescription.luhe-charybdismeatchunk>
+  <entityname.luhe-rawcharybdismeat>Сырое мясо Харибды</entityname.luhe-rawcharybdismeat>
+  <entitydescription.luhe-rawcharybdismeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawcharybdismeat>
+  <!-- Богомол сырое -->
+  <entityname.luhe-mantismeatchunk>Кусок мяса Богомола</entityname.luhe-mantismeatchunk>
+  <entitydescription.luhe-mantismeatchunk>Постный кусок мяса из Богомола - ты уверен, что хочешь это есть?. \nПортится, если не находится в холодильнике.</entitydescription.luhe-mantismeatchunk>
+  <entityname.luhe-rawmantismeat>Сырое мясо Богомола</entityname.luhe-rawmantismeat>
+  <entitydescription.luhe-rawmantismeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawmantismeat>
+  <!-- Стрекальщик сырое -->
+  <entityname.luhe-coelanthmeatchunk>Кусок мяса Стрекальщика</entityname.luhe-coelanthmeatchunk>
+  <entitydescription.luhe-coelanthmeatchunk>Сочный кусок мяса Стрекальщика - чешуйчатый! \nПортится, если не находится в холодильнике.</entitydescription.luhe-coelanthmeatchunk>
+  <entityname.luhe-rawcoelanthmeat>Сырое мясо Стрекальщика</entityname.luhe-rawcoelanthmeat>
+  <entitydescription.luhe-rawcoelanthmeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawcoelanthmeat>
+  <!-- Пещерник сырое -->
+  <entityname.luhe-cavermeatchunk>Кусок мяса Пещерника</entityname.luhe-cavermeatchunk>
+  <entitydescription.luhe-cavermeatchunk>Круглый кусок мяса из Пещерника - хрустящий! \nПортится, если не находится в холодильнике.</entitydescription.luhe-cavermeatchunk>
+  <entityname.luhe-rawcavermeat>Сырое мясо Пещерника</entityname.luhe-rawcavermeat>
+  <entitydescription.luhe-rawcavermeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawcavermeat>
+  <!-- Хелицерат сырое -->
+  <entityname.luhe-cheliceratemeatchunk>Кусок мяса Хелицерата</entityname.luhe-cheliceratemeatchunk>
+  <entitydescription.luhe-cheliceratemeatchunk>Щетинистый кусок мяса из Хелицерата - это вообще съедобно? \nПортится, если не находится в холодильнике.</entitydescription.luhe-cheliceratemeatchunk>
+  <entityname.luhe-rawcheliceratemeat>Сырое мясо Хелицерата</entityname.luhe-rawcheliceratemeat>
+  <entitydescription.luhe-rawcheliceratemeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawcheliceratemeat>
+  <!-- Ктулху сырой -->
+  <entityname.luhe-cthulhumeatchunk>Кусок мяса Ктулху</entityname.luhe-cthulhumeatchunk>
+  <entitydescription.luhe-cthulhumeatchunk>Умопомрачительный кусок мяса из Ктулху - бог мёртв и мы его съели. \nПортится, если не находится в холодильнике.</entitydescription.luhe-cthulhumeatchunk>
+  <entityname.luhe-rawcthulhumeat>Сырое мясо Ктулху</entityname.luhe-rawcthulhumeat>
+  <entitydescription.luhe-rawcthulhumeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawcthulhumeat>
+  <!-- Блокиратор сырой -->
+  <entityname.luhe-latchermeatchunk>Кусок мяса Блокиратора</entityname.luhe-latchermeatchunk>
+  <entitydescription.luhe-latchermeatchunk>Паукообразный кусок мяса из Блокиратора - должен быть заБлокирован в бургере. \nПортится, если не находится в холодильнике.</entitydescription.luhe-latchermeatchunk>
+  <entityname.luhe-rawlatchermeat>Сырое мясо Блокиратора</entityname.luhe-rawlatchermeat>
+  <entitydescription.luhe-rawlatchermeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawlatchermeat>
+  <!-- Смертожабр сырое -->
+  <entityname.luhe-deathgillmeatchunk>Кусок мяса Смертожабра</entityname.luhe-deathgillmeatchunk>
+  <entitydescription.luhe-deathgillmeatchunk>Сочный кусок мяса из Смертожабра - вкус за который можно умереть! \nПортится, если не находится в холодильнике.</entitydescription.luhe-deathgillmeatchunk>
+  <entityname.luhe-rawdeathgillmeat>Сырое мясо Смертожабра</entityname.luhe-rawdeathgillmeat>
+  <entitydescription.luhe-rawdeathgillmeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawdeathgillmeat>
+  <!-- Ужас из глубин сырое -->
+  <entityname.luhe-epicentrummeatchunk>Кусок мяса Ужаса из глубин</entityname.luhe-epicentrummeatchunk>
+  <entitydescription.luhe-epicentrummeatchunk>Серый кусок мяса Ужаса из глубин - отличная добыча! \nПортится, если не находится в холодильнике.</entitydescription.luhe-epicentrummeatchunk>
+  <entityname.luhe-rawepicentrummeat>Сырое мясо Ужаса из глубин</entityname.luhe-rawepicentrummeat>
+  <entitydescription.luhe-rawepicentrummeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawepicentrummeat>
+  <!-- Европейская форель сырое -->
+  <entityname.luhe-europantroutmeatchunk>Кусок мяса Европейской форели</entityname.luhe-europantroutmeatchunk>
+  <entitydescription.luhe-europantroutmeatchunk>Пресный кусок мяса Европейской форели - если бы это был хороший день, я бы рыбачил. \nПортится, если не находится в холодильнике.</entitydescription.luhe-europantroutmeatchunk>
+  <entityname.luhe-raweuropantroutmeat>Сырое мясо Европейской форели</entityname.luhe-raweuropantroutmeat>
+  <entitydescription.luhe-raweuropantroutmeat>Портится, если не находится в холодильнике.</entitydescription.luhe-raweuropantroutmeat>
+  <!-- Креветка сырое -->
+  <entityname.luhe-shrimpmeatchunk>Кусок мяса Креветки</entityname.luhe-shrimpmeatchunk>
+  <entitydescription.luhe-shrimpmeatchunk>Филигранно отрезанный кусок мяса Креветки. \nПортится, если не находится в холодильнике.</entitydescription.luhe-shrimpmeatchunk>
+  <entityname.luhe-rawshrimpmeat>Сырое мясо Креветки</entityname.luhe-rawshrimpmeat>
+  <entitydescription.luhe-rawshrimpmeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawshrimpmeat>
+  <!-- Рак сырое -->
+  <entityname.luhe-crustaceanmeatchunk>Кусок мяса Рака</entityname.luhe-crustaceanmeatchunk>
+  <entitydescription.luhe-crustaceanmeatchunk>Сочный кусок мяса Рака - не ешь панцирь! \nПортится, если не находится в холодильнике.</entitydescription.luhe-crustaceanmeatchunk>
+  <entityname.luhe-rawcrustaceanmeat>Сырое мясо Рака</entityname.luhe-rawcrustaceanmeat>
+  <entitydescription.luhe-rawcrustaceanmeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawcrustaceanmeat>
+  <!-- Ловчий сырое -->
+  <entityname.luhe-trappermeatchunk>Кусок мяса Ловчего</entityname.luhe-trappermeatchunk>
+  <entitydescription.luhe-trappermeatchunk>Прекрасный кусок мяса из Ловчего - отличная добыча! \nПортится, если не находится в холодильнике.</entitydescription.luhe-trappermeatchunk>
+  <entityname.luhe-rawtrappermeat>Сырое мясо Ловчего</entityname.luhe-rawtrappermeat>
+  <entitydescription.luhe-rawtrappermeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawtrappermeat>
+  <!-- Угорь сырое -->
+  <entityname.luhe-eelmeatchunk>Кусок мяса Угря</entityname.luhe-eelmeatchunk>
+  <entitydescription.luhe-eelmeatchunk>Скользкий кусок мяса Угря. \nПортится, если не находится в холодильнике.</entitydescription.luhe-eelmeatchunk>
+  <entityname.luhe-raweelmeat>Сырое мясо Угря</entityname.luhe-raweelmeat>
+  <entitydescription.luhe-raweelmeat>Портится, если не находится в холодильнике.</entitydescription.luhe-raweelmeat>
+  <!-- Детёныш молоха -->
+  <entityname.luhe-guppymeatchunk>Кусок мяса Детёныша молоха</entityname.luhe-guppymeatchunk>
+  <entitydescription.luhe-guppymeatchunk>Пресный кусок мяса Детёныша молоха. \nПортится, если не находится в холодильнике.</entitydescription.luhe-guppymeatchunk>
+  <entityname.luhe-rawguppymeat>Сырое мясо Детёныша молоха</entityname.luhe-rawguppymeat>
+  <entitydescription.luhe-rawguppymeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawguppymeat>
+  <!-- Кит сырое -->
+  <entityname.luhe-whalemeatchunk>Кусок мяса Кита</entityname.luhe-whalemeatchunk>
+  <entitydescription.luhe-whalemeatchunk>Жирный кусок мяса из Кита - ищи Моби Дика! \nПортится, если не находится в холодильнике.</entitydescription.luhe-whalemeatchunk>
+  <entityname.luhe-rawwhalemeat>Сырое мясо Кита</entityname.luhe-rawwhalemeat>
+  <entitydescription.luhe-rawwhalemeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawwhalemeat>
+  <!-- Лопаточник сырое -->
+  <entityname.luhe-hullfishmeatchunk>Кусок мяса Лопаточника</entityname.luhe-hullfishmeatchunk>
+  <entitydescription.luhe-hullfishmeatchunk>Пресный кусок мяса Лопаточника - Я надеюсь, он не содержит металл. \nПортится, если не находится в холодильнике.</entitydescription.luhe-hullfishmeatchunk>
+  <entityname.luhe-rawhullfishmeat>Сырое мясо Лопаточника</entityname.luhe-rawhullfishmeat>
+  <entitydescription.luhe-rawhullfishmeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawhullfishmeat>
+  <!-- Скрытень сырое -->
+  <entityname.luhe-lurkermeatchunk>Кусок мяса Скрытня</entityname.luhe-lurkermeatchunk>
+  <entitydescription.luhe-lurkermeatchunk>Тонкий кусок мяса Скрытня - почти уверен, что оно проклято. \nПортится, если не находится в холодильнике.</entitydescription.luhe-lurkermeatchunk>
+  <entityname.luhe-rawlurkermeat>Сырое мясо Скрытня</entityname.luhe-rawlurkermeat>
+  <entitydescription.luhe-rawlurkermeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawlurkermeat>
+  <!-- Магмачервь сырой -->
+  <entityname.luhe-magmawormmeatchunk>Кусок мяса Магмачервя</entityname.luhe-magmawormmeatchunk>
+  <entitydescription.luhe-magmawormmeatchunk>Жгучий кусок мяса Магмачервя. \nПортится, если не находится в холодильнике.</entitydescription.luhe-magmawormmeatchunk>
+  <entityname.luhe-rawmagmawormmeat>Сырое мясо Магмачервя</entityname.luhe-rawmagmawormmeat>
+  <entitydescription.luhe-rawmagmawormmeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawmagmawormmeat>
+  <!-- Грязевой дракон сырое -->
+  <entityname.luhe-muddragonmeatchunk>Кусок мяса Грязевого дракона</entityname.luhe-muddragonmeatchunk>
+  <entitydescription.luhe-muddragonmeatchunk>Длинный кусок мяса Грязевого дракона. \nПортится, если не находится в холодильнике.</entitydescription.luhe-muddragonmeatchunk>
+  <entityname.luhe-rawmuddragonmeat>Raw Muddragon Meat</entityname.luhe-rawmuddragonmeat>
+  <entitydescription.luhe-rawmuddragonmeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawmuddragonmeat>
+  <!-- Акула сырое -->
+  <entityname.luhe-sharkmeatchunk>Кусок мяса Акулы</entityname.luhe-sharkmeatchunk>
+  <entitydescription.luhe-sharkmeatchunk>Жирный кусок мяса Акулы. \nПортится, если не находится в холодильнике.</entitydescription.luhe-sharkmeatchunk>
+  <entityname.luhe-rawsharkmeat>Сырое мясо Акулы</entityname.luhe-rawsharkmeat>
+  <entitydescription.luhe-rawsharkmeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawsharkmeat>
+  <!-- Псиложаба сырое -->
+  <entityname.luhe-psilotoadmeatchunk>Кусок мяса Псиложабы</entityname.luhe-psilotoadmeatchunk>
+  <entitydescription.luhe-psilotoadmeatchunk>Филигранно отрезанный кусок мяса Псиложабы - надеюсь не галюциногенный. \nПортится, если не находится в холодильнике.</entitydescription.luhe-psilotoadmeatchunk>
+  <entityname.luhe-rawpsilotoadmeat>Сырое мясо Псиложабы</entityname.luhe-rawpsilotoadmeat>
+  <entitydescription.luhe-rawpsilotoadmeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawpsilotoadmeat>
+  <!-- Рифтовый червь -->
+  <entityname.luhe-riftwormmeatchunk>Кусок мяса Рифтового червя</entityname.luhe-riftwormmeatchunk>
+  <entitydescription.luhe-riftwormmeatchunk>Чешуйчатый кусок мяса Рифтового червя - ты уверен, что хочешь есть это? \nПортится, если не находится в холодильнике.</entitydescription.luhe-riftwormmeatchunk>
+  <entityname.luhe-rawriftwormmeat>Сырое мясо Рифтового червя</entityname.luhe-rawriftwormmeat>
+  <entitydescription.luhe-rawriftwormmeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawriftwormmeat>
+  <!-- Каменный черь -->
+  <entityname.luhe-rockwormmeatchunk>Кусок мяса Каменного червя</entityname.luhe-rockwormmeatchunk>
+  <entitydescription.luhe-rockwormmeatchunk>Хороший кусок мяса Каменного червя. \nПортится, если не находится в холодильнике.</entitydescription.luhe-rockwormmeatchunk>
+  <entityname.luhe-rawrockwormmeat>Сырое мясо Каменного червя</entityname.luhe-rawrockwormmeat>
+  <entitydescription.luhe-rawrockwormmeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawrockwormmeat>
+  <!-- Морской ёж сырое -->
+  <entityname.luhe-seaurchinmeatchunk>Кусок мяса Морского ежа</entityname.luhe-seaurchinmeatchunk>
+  <entitydescription.luhe-seaurchinmeatchunk>Волосатый кусок мяса Морского ежа. \nПортится, если не находится в холодильнике.</entitydescription.luhe-seaurchinmeatchunk>
+  <entityname.luhe-rawseaurchinmeat>Сырое мясо Морского ежа</entityname.luhe-rawseaurchinmeat>
+  <entitydescription.luhe-rawseaurchinmeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawseaurchinmeat>
+  <!-- Скиталец -->
+  <entityname.luhe-wanderermeatchunk>Кусок мяса Скитальца</entityname.luhe-wanderermeatchunk>
+  <entitydescription.luhe-wanderermeatchunk>Толстый кусок мяса Скитальца. \nПортится, если не находится в холодильнике.</entitydescription.luhe-wanderermeatchunk>
+  <entityname.luhe-rawwanderermeat>Сырое мясо Скитальца</entityname.luhe-rawwanderermeat>
+  <entitydescription.luhe-rawwanderermeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawwanderermeat>
+  <!-- Мусорщик -->
+  <entityname.luhe-thrashermeatchunk>Кусок мяса Мусорщика</entityname.luhe-thrashermeatchunk>
+  <entitydescription.luhe-thrashermeatchunk>Каменистый кусок мяса Мусорщика - не сломай зуб! \nПортится, если не находится в холодильнике.</entitydescription.luhe-thrashermeatchunk>
+  <entityname.luhe-rawthrashermeat>Сырое мясо Мусорщика</entityname.luhe-rawthrashermeat>
+  <entitydescription.luhe-rawthrashermeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawthrashermeat>
+  <!-- Тринога сырое -->
+  <entityname.luhe-trichordatemeatchunk>Кусок мяса Триноги</entityname.luhe-trichordatemeatchunk>
+  <entitydescription.luhe-trichordatemeatchunk>Разрезанная Тринога. \nПортится, если не находится в холодильнике.</entitydescription.luhe-trichordatemeatchunk>
+  <entityname.luhe-rawtrichordatemeat>Сырое мясо Триноги</entityname.luhe-rawtrichordatemeat>
+  <entitydescription.luhe-rawtrichordatemeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawtrichordatemeat>
+  <!-- Бездна сырое -->
+  <entityname.luhe-voidmeatchunk>Кусок мяса Бездны</entityname.luhe-voidmeatchunk>
+  <entitydescription.luhe-voidmeatchunk>Ощущающийся пустым кусок мяса создания Бездны - Бездна обернулась и тут же стала бургером. \nПортится, если не находится в холодильнике.</entitydescription.luhe-voidmeatchunk>
+  <entityname.luhe-rawvoidmeat>Сырое мясо Бездны</entityname.luhe-rawvoidmeat>
+  <entitydescription.luhe-rawvoidmeat>Портится, если не находится в холодильнике.</entitydescription.luhe-rawvoidmeat>
+</infotexts>
