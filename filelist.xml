@@ -1,3 +1,3 @@
 <contentpackage name="Barostation health system" modversion="1.0.0" gameversion="0.17.8.0" corepackage="false">
-    <Item file="%ModDir%/" />
+    <Item file="%ModDir%/"Afflictions.xml/>
 </contentpackage>
