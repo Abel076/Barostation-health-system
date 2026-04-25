@@ -1,0 +1,57 @@
+<Afflictions>
+  <!-- Brute Damage: any phisical impact --> 
+  <Affliction identifier="brut"
+							Name="Brute Damage" 
+  						LimbSpecific="true"
+  						MaxStrength="100"
+  						IsBuff="false">
+    <!-- Hide from normal UI: set threshold higher than max strength -->
+    <ShowIconThreshold>101</ShowIconThreshold>
+    <!-- Hide from other players' UI without scanner -->
+    <ShowIconToOthersThreshold>101</ShowIconToOthersThreshold>
+    <!-- Show only when a health scanner is used -->
+    <ShowInHealthScannerThreshold>0</ShowInHealthScannerThreshold>
+  </Affliction>
+  <!-- Suffocation Damage: Lack of  oxygen -->
+  <Affliction identifier="suffocation" 
+              Name="Suffocation Damage" 
+              LimbSpecific="false" 
+              MaxStrength="100" 
+              IsBuff="false">
+    <!-- Hide from normal UI: set threshold higher than max strength -->
+    <ShowIconThreshold>101</ShowIconThreshold>
+    <!-- Hide from other players' UI without scanner -->
+    <ShowIconToOthersThreshold>101</ShowIconToOthersThreshold>
+    <!-- Show only when a health scanner is used -->
+    <ShowInHealthScannerThreshold>0</ShowInHealthScannerThreshold>
+  </Affliction>
+<!-- Thermal Damage: Impact of extreme temperatures -->
+  <Affliction identifier="thermal"
+  						Name="Thermal Damage"
+  						LimbSpecific="true"
+  						MaxStrength="100"
+  						IsBuff="false">
+    <!-- Hide from normal UI: set threshold higher than max strength -->
+    <ShowIconThreshold>101</ShowIconThreshold>
+    <!-- Hide from other players' UI without scanner -->
+    <ShowIconToOthersThreshold>101</ShowIconToOthersThreshold>
+    <!-- Show only when a health scanner is used -->
+    <ShowInHealthScannerThreshold>0</ShowInHealthScannerThreshold>
+  </Affliction>
+<!-- Toxin Damage: Poisoning or radiation -->
+  <Affliction identifier="toxins"
+  						Name="Toxin Damage"
+  						LimbSpecific="false"
+  						MaxStrength="100"
+  						IsBuff="false">
+    <!-- Hide from normal UI: set threshold higher than max strength -->
+    <ShowIconThreshold>101</ShowIconThreshold>
+    <!-- Hide from other players' UI without scanner -->
+    <ShowIconToOthersThreshold>101</ShowIconToOthersThreshold>
+    <!-- Show only when a health scanner is used -->
+    <ShowInHealthScannerThreshold>0</ShowInHealthScannerThreshold>
+  </Affliction>
+</Afflictions>
+  
+
+  
